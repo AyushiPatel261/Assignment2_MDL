@@ -96,3 +96,4 @@ if __name__ == "__main__":
     test_a_batch_of_inputs()
     test_two_neurons()
     test_two_neurons_with_a_batch_of_inputs()
+
